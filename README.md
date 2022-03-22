@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheGuyFromIndia
+- 📫 Currently workinga as a .Net backedn dev.
 - 👀 I’m interested in blockchain dev
-- 🌱 I’m currently learning blockchain dev and aws 
-- 💞️ I’m looking to collaborate on blockchain dev
-- 📫 How to reach me hawnkmichelle@gmail.com
+
+How to reach me - roeluvathingal@gmail.com
 
 <!---
 TheGuyFromIndia/TheGuyFromIndia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
